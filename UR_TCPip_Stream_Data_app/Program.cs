@@ -59,7 +59,7 @@ namespace UR_TCPip_Stream_Data_app
 
             // Initialization {TCP/IP Universal Robots}
             //  Read Data:
-            UR_Stream_Data.ip_address = "192.168.230.132";
+            UR_Stream_Data.ip_address = "192.168.1.63";
             //  Communication speed: CB-Series 125 Hz (8 ms), E-Series 500 Hz (2 ms)
             UR_Stream_Data.time_step = 2;
 

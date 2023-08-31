@@ -1,3 +1,4 @@
+﻿
 /****************************************************************************
 MIT License
 Copyright(c) 2020 Roman Parak
@@ -78,13 +79,13 @@ namespace UR_TCPip_RW_Console_app
         {
             // Initialization {TCP/IP Universal Robots}
             //  Read Data:
-            UR_Stream_Data.ip_address = "192.168.230.133";
+            UR_Stream_Data.ip_address = "192.168.1.93";
             //  Communication speed: CB-Series 125 Hz (8 ms), E-Series 500 Hz (2 ms)
-            UR_Stream_Data.time_step = 8;
+            UR_Stream_Data.time_step = 2;
             //  Write Data:
-            UR_Control_Data.ip_address = "192.168.230.133";
+            UR_Control_Data.ip_address = "192.168.1.93";
             //  Communication speed: CB-Series 125 Hz (8 ms), E-Series 500 Hz (2 ms)
-            UR_Control_Data.time_step = 8;
+            UR_Control_Data.time_step = 2;
 
             // Start Stream {Universal Robots TCP/IP}
             UR_Stream ur_stream_robot = new UR_Stream();

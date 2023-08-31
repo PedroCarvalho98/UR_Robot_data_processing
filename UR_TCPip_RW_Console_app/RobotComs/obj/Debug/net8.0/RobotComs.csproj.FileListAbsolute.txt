@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\bin\Debug\net8.0\RobotComs.exe
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\bin\Debug\net8.0\RobotComs.deps.json
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\bin\Debug\net8.0\RobotComs.runtimeconfig.json
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\bin\Debug\net8.0\RobotComs.dll
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\bin\Debug\net8.0\RobotComs.pdb
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.AssemblyInfo.cs
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.sourcelink.json
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.dll
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\refint\RobotComs.dll
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.pdb
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\RobotComs.genruntimeconfig.cache
+C:\Users\User\Desktop\PIC-Tese\Hololens\Programs\UR_Robot_data_processing\UR_TCPip_RW_Console_app\RobotComs\obj\Debug\net8.0\ref\RobotComs.dll
